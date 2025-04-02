@@ -1,0 +1,2 @@
+# pasta a ignorar
+ .spyproject/
